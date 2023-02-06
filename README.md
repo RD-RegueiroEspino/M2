@@ -7,4 +7,4 @@ This repository contains different projects and assignments that I did in the MV
 ### First semester
 
 * [Probabilistic Graphical Models](probabilistic-graphical-models)
-* [Computational Statistics](computational)
+* [Computational Statistics](Computational)
