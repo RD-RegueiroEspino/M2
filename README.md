@@ -2,7 +2,7 @@
 Projects for the M2 Master at ENS Paris-Saclay
 
 
-![header](mvalogo.svg)
+![header](logo_mva_935x701.jpg)
 # Master MVA (MATHÉMATIQUES, VISION, APPRENTISSAGE)
 
 This repositoru contains different projects and assignments that I did in the MVA Master at the ENS Paris-Saclay.
