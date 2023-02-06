@@ -6,5 +6,5 @@ This repository contains different projects and assignments that I did in the [M
 ## List of courses
 ### First semester
 
-* [Probabilistic Graphical Models](probabilistic-graphical-models)
 * [Computational Statistics](Computational)
+* [Deep Learning in Practice](https://github.com/israfelsr/assignments-mva/tree/main/dl-in-practice)
