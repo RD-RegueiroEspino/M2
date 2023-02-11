@@ -1,7 +1,7 @@
 # M2 Master MVA (MATHÉMATIQUES, VISION, APPRENTISSAGE)
 ![header](logo_mva_935x701.jpg)
 
-This repository contains different projects and assignments that I did in the [MVA Master](https://www.master-mva.com) at the ENS Paris-Saclay.
+This repository contains different projects and assignments that I did in the [MVA Master](https://www.master-mva.com) at the ENS Paris-Saclay and I consider useful. I remark that there is no guarantee with regards to the accuracy of the answers and results given here. 
 
 ## List of courses
 ### First semester
