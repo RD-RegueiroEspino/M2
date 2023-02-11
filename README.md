@@ -6,5 +6,7 @@ This repository contains different projects and assignments that I did in the [M
 ## List of courses
 ### First semester
 
-* [Computational Statistics](Computational)
+* [Computational Statistics](Computational) Grade 18.00/20.00
+
+### Second semester
 * [Deep Learning in Practice](https://github.com/israfelsr/assignments-mva/tree/main/dl-in-practice)
