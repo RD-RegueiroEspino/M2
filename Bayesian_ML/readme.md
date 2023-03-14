@@ -11,7 +11,7 @@ numpy
 math
 matplotlib
 
-Also, the _bayesian_regression.py_ from https://github.com/pgermain/PAC-Bayesian-Theory-Meets-Bayesian-Inference, which is included in this repository, are needed. Moreover, the executed notebook can be found in this repository.
+Also, the _bayesian_regression.py_ from https://github.com/pgermain/PAC-Bayesian-Theory-Meets-Bayesian-Inference, which is included in this repository, is needed. Moreover, the executed notebook can be found in this repository.
 
 The executed file can be
 ## Disclaimer
