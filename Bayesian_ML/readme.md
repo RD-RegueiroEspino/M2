@@ -15,7 +15,11 @@ math
 
 matplotlib
 
-Also, the _bayesian_regression.py_ from https://github.com/pgermain/PAC-Bayesian-Theory-Meets-Bayesian-Inference, which is included in this repository, is needed. Moreover, the executed notebook can be found in this repository.
+The experiments show that the proposed bound significantly improves the state-of-the-art known
+bounds on linear regression when the number of data is small.
+
+* ``bayesian_regression.py`` from https://github.com/pgermain/PAC-Bayesian-Theory-Meets-Bayesian-Inference, which is included in this repository, is needed.
+* ``BML_REGUEIRO_SANCHEZDELRIO.ipynb`` is a jupyter notebook requiring the bayesian_regression.py and including the illustrative example.
 
 ## Disclaimer
 
