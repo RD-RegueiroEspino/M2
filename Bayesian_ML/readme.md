@@ -8,12 +8,14 @@ The aim of this repository is to collect the code used for the Bayesian Machine 
 The only needed packages are:
 
 numpy
+
 math
+
 matplotlib
 
 Also, the _bayesian_regression.py_ from https://github.com/pgermain/PAC-Bayesian-Theory-Meets-Bayesian-Inference, which is included in this repository, is needed. Moreover, the executed notebook can be found in this repository.
 
-The executed file can be
+The executed file can be found on this repository as a jupyter notebook.
 ## Disclaimer
 
 The code was not reviewed and it might contain errors, for further information contact us.
