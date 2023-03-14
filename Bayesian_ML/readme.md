@@ -17,4 +17,4 @@ numpy, math and matplotlib
 
 ## Disclaimer
 
-The code was not reviewed and it might contain errors, for further information contact us.
+The code might contain errors, for further information or any question contact us on the mails above.
