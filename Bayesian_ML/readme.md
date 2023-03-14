@@ -19,7 +19,9 @@ The experiments show that the proposed bound significantly improves the state-of
 bounds on linear regression when the number of data is small.
 
 * ``bayesian_regression.py`` from https://github.com/pgermain/PAC-Bayesian-Theory-Meets-Bayesian-Inference, which is included in this repository, is needed.
-* ``BML_REGUEIRO_SANCHEZDELRIO.ipynb`` is a jupyter notebook requiring the bayesian_regression.py and including the illustrative example.
+* ``BML_REGUEIRO_SANCHEZDELRIO.ipynb`` is a jupyter notebook requiring the bayesian_regression.py and it produces the illustrative example, which is shown here:
+
+![header](Area_non_convergence.pdf)
 
 ## Disclaimer
 
