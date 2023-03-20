@@ -11,4 +11,5 @@ This repository contains different projects and assignments that I did, alone or
 ### Second semester
 * [Deep Learning in Practice](https://github.com/israfelsr/assignments-mva/tree/main/dl-in-practice) (Collected in the GitHub of Israfel Salazar)
 * [Graphs in Machine Learning](graphs-ML)
-* [Bayesian Machine Learning](https://github.com/israfelsr/assignments-mva/tree/main/dl-in-practice)
+* [Bayesian Machine Learning](Bayesian-ML)
+
