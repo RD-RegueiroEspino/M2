@@ -2,6 +2,9 @@ name: canine_nlp
 channels:
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   - transformers
   - datasets
+  - pytorch
+  - accelerate

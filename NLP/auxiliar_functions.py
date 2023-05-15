@@ -52,30 +52,3 @@ def generate_noisy_data(df_train, df_val, df_test, noise_level=0.15, language='e
     return df_train_noisy, df_val_noisy, df_test_noisy
 
 
-def train_evaluate(checkpoint, tokenizer, metrics_function, dataset, training_args, model_name, num_labels=None,
-                   eval_subset="test"):
-    if num_labels == None:
-        model = AutoModelForSequenceClassification.from_pretrained(checkpoint)
-    else:
-        model = AutoModelForSequenceClassification.from_pretrained(checkpoint, num_labels=num_labels)
-
-    tokenizer = AutoTokenizer.from_pretrained(checkpoint)
-    data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
-
-    trainer = Trainer(
-        model,
-        training_args,
-        train_dataset=dataset["train"],
-        eval_dataset=dataset[eval_subset],
-        data_collator=data_collator,
-        tokenizer=tokenizer,
-        compute_metrics=metrics_function,
-    )
-
-    trainer.train()
-
-    trainer.save_model("./best_model")
-
-    print(trainer.evaluate())
-
-
