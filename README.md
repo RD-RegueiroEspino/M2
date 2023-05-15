@@ -9,7 +9,7 @@ This repository contains different projects and assignments that I did, alone or
 * [Computational Statistics](Computational) Grade 18.00/20.00
 
 ### Second semester
-* [Deep Learning in Practice](https://github.com/israfelsr/assignments-mva/tree/main/dl-in-practice) (Collected in the GitHub of Israfel Salazar)
+* [Deep Learning in Practice](https://github.com/israfelsr/assignments-mva/tree/main/dl-in-practice) (Collected in the GitHub of Israfel Salazar) Grade 16.50/20.00
 * [Graphs in Machine Learning](graphs-ML)
 * [Bayesian Machine Learning](Bayesian_ML) Grade 17.50/20.00
 
