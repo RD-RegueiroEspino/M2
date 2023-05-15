@@ -1,0 +1,7 @@
+name: canine_nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - transformers
+  - datasets
